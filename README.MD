@@ -1,4 +1,4 @@
-# install environment
+# Install environment
 
 ```sh
 python3 -m venv env
